@@ -1,0 +1,18 @@
+name: main-from-develop
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  from-develop:
+    name: PR to main comes from develop
+    runs-on: ubuntu-latest
+    steps:
+      - name: Reject any head branch other than develop
+        run: |
+          if [ "${{ github.head_ref }}" != "develop" ]; then
+            echo "Pull requests to main must come from develop. Open this against develop instead."
+            exit 1
+          fi

@@ -1,5 +1,8 @@
 import { createError, defineEventHandler, readBody } from "h3"
-import { buildKontaktEmailHtml } from "~/server/utils/kontaktEmail"
+import {
+  buildKontaktEmailHtml,
+  cleanAttribution,
+} from "~/server/utils/kontaktEmail"
 import { sendFormEmail } from "~/server/utils/sendEmail"
 import type { IKontaktForm } from "~/types/dto/IKontaktForm"
 
@@ -7,7 +10,10 @@ export default defineEventHandler(async (event) => {
   const body = (await readBody(event)) as Partial<IKontaktForm>
   validateKontaktForm(body)
 
-  const form = body as IKontaktForm
+  const form = {
+    ...(body as IKontaktForm),
+    attribution: cleanAttribution(body.attribution),
+  }
 
   await sendFormEmail(event, {
     subject: `Kontaktanfrage: ${form.topic} — ${form.firstName} ${form.lastName}`,

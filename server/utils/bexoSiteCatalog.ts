@@ -43,7 +43,7 @@ export type BexoBlogMeta = {
   tldrBody: string
 }
 
-const DEFAULT_SITE_NAME = "Bexolutions Marketing & Vertrieb AG"
+const DEFAULT_SITE_NAME = "Bexolutions Marketing und Vertrieb AG"
 const DEFAULT_SITE_DESCRIPTION =
   "Bexolutions — Ihre Digitalagentur im Kanton Aargau. SEO, Online Marketing und Vertriebsoptimierung für KMU in der Schweiz und im DACH-Raum."
 
@@ -89,7 +89,7 @@ export const BEXO_STATIC_PAGES: BexoStaticPage[] = [
     path: "/ueber-uns",
     title: "Über uns",
     summary:
-      "Team, Haltung und Arbeitsweise von Bexolutions Marketing & Vertrieb AG.",
+      "Team, Haltung und Arbeitsweise von Bexolutions Marketing und Vertrieb AG.",
     kind: "primary",
     changefreq: "monthly",
     priority: 0.9,
@@ -142,7 +142,7 @@ export const BEXO_STATIC_PAGES: BexoStaticPage[] = [
   {
     path: "/impressum",
     title: "Impressum",
-    summary: "Rechtliche Angaben zu Bexolutions Marketing & Vertrieb AG.",
+    summary: "Rechtliche Angaben zu Bexolutions Marketing und Vertrieb AG.",
     kind: "optional",
     changefreq: "yearly",
     priority: 0.3,

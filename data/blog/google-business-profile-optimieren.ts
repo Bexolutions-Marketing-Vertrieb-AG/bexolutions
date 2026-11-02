@@ -28,7 +28,7 @@ export default {
   },
   author: {
     name: "Balaram Furrer",
-    bio: "Balaram Furrer ist CEO und Co-Founder von Bexolutions Marketing & Vertrieb AG sowie BNI Area Director Kanton Aargau. Er begleitet Schweizer KMU bei der digitalen Sichtbarkeit im Zeitalter der KI-Suche.",
+    bio: "Balaram Furrer ist CEO und Co-Founder von Bexolutions Marketing und Vertrieb AG sowie BNI Area Director Kanton Aargau. Er begleitet Schweizer KMU bei der digitalen Sichtbarkeit im Zeitalter der KI-Suche.",
   },
   toc: [
     { id: "warum", label: "Warum das GBP 2026 wichtiger ist denn je" },

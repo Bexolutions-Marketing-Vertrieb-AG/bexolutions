@@ -15,7 +15,7 @@
     path: "/impressum",
     title: "Impressum — Bexolutions",
     description:
-      "Impressum der Bexolutions Marketing & Vertrieb AG, Fabrikweg 1a, 5502 Hunzenschwil.",
+      "Impressum der Bexolutions Marketing und Vertrieb AG, Fabrikweg 1a, 5502 Hunzenschwil.",
     breadcrumbs: [
       { name: "Home", path: "/" },
       { name: "Impressum", path: "/impressum" },

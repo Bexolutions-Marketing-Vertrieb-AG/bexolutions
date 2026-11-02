@@ -47,7 +47,7 @@ export default defineNuxtConfig({
       siteUrl: process.env.NUXT_PUBLIC_SITE_URL ?? "https://www.bexolutions.ch",
       siteName:
         process.env.NUXT_PUBLIC_SITE_NAME ??
-        "Bexolutions Marketing & Vertrieb AG",
+        "Bexolutions Marketing und Vertrieb AG",
       siteDescription:
         process.env.NUXT_PUBLIC_SITE_DESCRIPTION ??
         "Bexolutions — Ihre Digitalagentur im Kanton Aargau. SEO, Online Marketing und Vertriebsoptimierung für KMU in der Schweiz und im DACH-Raum.",

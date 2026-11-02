@@ -220,7 +220,8 @@
             Bexolutions wurde 2019 in Hunzenschwil, Kanton Aargau gegründet —
             mit einem klaren Ziel: KMU in der Deutschschweiz eine faire Chance
             auf digitales Wachstum zu geben. Heute sind wir ein Team aus 12
-            Spezialisten mit Standorten in der Schweiz, Mexiko und Bali.
+            Spezialisten mit Hauptsitz in Hunzenschwil; ein Teil des Teams
+            arbeitet remote aus Mexiko und Bali.
           </p>
         </section>
 
@@ -744,9 +745,7 @@
               🇲🇽 Mexiko
             </p>
             <p class="mt-1 text-[16px] font-normal leading-[23px] text-black">
-              San Cayetano, 20020
-              <br />
-              Aguascalientes, Ags.
+              Remote-Team
             </p>
           </div>
           <div
@@ -757,9 +756,7 @@
               🇮🇩 Indonesien — Bali
             </p>
             <p class="mt-1 text-[16px] font-normal leading-[23px] text-black">
-              Gg. Pratama No.1a
-              <br />
-              80361 Badung
+              Remote-Team
             </p>
           </div>
         </section>

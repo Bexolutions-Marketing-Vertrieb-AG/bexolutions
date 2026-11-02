@@ -14,12 +14,12 @@ Beim Verantwortlichen nach Art. 4 Nr. 7 DSGVO handelt es sich auch um den Empfä
 Ein allfälliger Drittempfänger wird separat ausgewiesen.</p>
 <p>Im Hinblick auf unsere Internetseite ist der Inhaber bzw. Verantwortliche:</p>
 <p>
-  Bexolutions Martketing und Vertrieb AG<br />
+  Bexolutions Marketing und Vertrieb AG<br />
   Fabrikweg 1a<br />
   5502 Hunzenschwil<br />
   Schweiz<br />
   E-Mail: <a href="mailto:info@bexolutions.ch" rel="noopener noreferrer" target="_blank">info@bexolutions.ch</a><br />
-  Tel.: 0783313777
+  Tel.: 062 897 22 44
 </p>
 
 <h2>Bereitstellung der Website und Erstellung von Logfiles</h2>
@@ -528,12 +528,12 @@ Angaben, für welche wir gesetzlich zur Aufbewahrung verpflichtet sind, werden n
 <h3>Wie nehmen Sie Ihre Rechte wahr?</h3>
 <p>Ihre Rechte können Sie jederzeit wahrnehmen, indem Sie sich an die untenstehenden Kontaktdaten wenden:</p>
 <p>
-  Bexolutions Martketing und Vertrieb AG<br />
+  Bexolutions Marketing und Vertrieb AG<br />
   Fabrikweg 1a<br />
   5502 Hunzenschwil<br />
   Schweiz<br />
   E-Mail: <a href="mailto:info@bexolutions.ch" rel="noopener noreferrer" target="_blank">info@bexolutions.ch</a><br />
-  Tel.: 0783313777
+  Tel.: 062 897 22 44
 </p>
 
 <h2>Recht auf Datenübertragbarkeit</h2>

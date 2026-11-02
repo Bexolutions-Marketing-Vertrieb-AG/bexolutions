@@ -22,6 +22,7 @@ const trackingSections = [
   "Google Analytics 4",
   "Google Ads: Conversion-Tracking und Remarketing",
   "Calendly (Terminbuchung)",
+  "HubSpot (Kundenverwaltung)",
 ]
 
 const removedSections = [

@@ -275,6 +275,19 @@ Hierdurch kann es zu Funktionseinschränkungen auf Internetseiten kommen, die Si
     <p>Weitere Informationen finden Sie in der Datenschutzerklärung des Anbieters unter <a href="https://calendly.com/legal/privacy-notice" rel="noopener noreferrer" target="_blank">https://calendly.com/legal/privacy-notice</a>.</p>
   </li>
   <li>
+    <h3 id="tracker-hubspot">HubSpot (Kundenverwaltung)</h3>
+    <p>Für die Verwaltung von Anfragen und Kundenbeziehungen verwenden wir die Software HubSpot der HubSpot Ireland Limited, 1 Sir John Rogerson&apos;s Quay, Dublin 2, Irland, einer Tochtergesellschaft der HubSpot, Inc., 2 Canal Park, Cambridge, MA 02141, USA, Website: <a href="https://www.hubspot.com/" rel="noopener noreferrer" target="_blank">https://www.hubspot.com/</a>.</p>
+    <p>Wenn Sie uns über das Kontaktformular schreiben, speichern wir Ihre Angaben (Anrede, Vorname, Nachname, E-Mail-Adresse, Telefonnummer, Unternehmen, Thema und Nachricht) zusammen mit der Herkunft Ihres Besuchs (Einstiegsseite, verweisende Website und allfällige Kampagnen-Parameter wie utm_source) in HubSpot.
+    Das Kontaktformular selbst setzt dafür keine HubSpot-Cookies und lädt keine Skripte von HubSpot.</p>
+    <p>Wir verwenden diese Angaben, um Ihre Anfrage zu beantworten, das weitere Vorgehen zu planen und eine allfällige Geschäftsbeziehung zu führen.
+    Rechtsgrundlage ist die Durchführung vorvertraglicher Massnahmen auf Ihre Anfrage (Art. 31 Abs. 2 lit. a DSG bzw. Art. 6 Abs. 1 lit. b DSGVO) sowie unser berechtigtes Interesse an einer geordneten Bearbeitung von Anfragen (Art. 31 Abs. 1 DSG bzw. Art. 6 Abs. 1 lit. f DSGVO).</p>
+    <p>Die Daten bewahren wir so lange auf, wie es für die Bearbeitung Ihrer Anfrage und eine allfällige Geschäftsbeziehung erforderlich ist. Entsteht keine Geschäftsbeziehung, löschen wir sie spätestens 24 Monate nach dem letzten Kontakt.</p>
+    <p>Unser HubSpot-Konto wird im Rechenzentrum von HubSpot in der Europäischen Union (Deutschland) betrieben.
+    Ein Zugriff durch die HubSpot, Inc. oder weitere Unterauftragsbearbeiter in den USA ist dennoch möglich. HubSpot, Inc. ist unter dem EU-US Data Privacy Framework und dem Swiss-US Data Privacy Framework zertifiziert; die Zertifizierung können Sie unter <a href="https://www.dataprivacyframework.gov/list" rel="noopener noreferrer" target="_blank">https://www.dataprivacyframework.gov/list</a> abrufen.
+    HubSpot bearbeitet die Daten als Auftragsbearbeiter gemäss seinem Data Processing Agreement, das Bestandteil der Kundenbedingungen ist.</p>
+    <p>Weitere Informationen finden Sie in der Datenschutzerklärung des Anbieters unter <a href="https://legal.hubspot.com/de/privacy-policy" rel="noopener noreferrer" target="_blank">https://legal.hubspot.com/de/privacy-policy</a>.</p>
+  </li>
+  <li>
     <h3 id="tracker-legally-ok">Legally ok</h3>
     <p>Wir verwenden auf unserer Seite den Dienst Legally ok des Unternehmens Legally ok GmbH, Schochenmühlestrasse 6, 6340 Baar, Schweiz, E-Mail: <a href="mailto:hello@legally-ok.com" rel="noopener noreferrer" target="_blank">hello@legally-ok.com</a>, Website: <a href="https://www.legally-ok.com/" rel="noopener noreferrer" target="_blank">https://www.legally-ok.com/</a>.
     Die Bearbeitung erfolgt ausschliesslich in der Schweiz gemäss dort geltender Datenschutzgesetzgebung.

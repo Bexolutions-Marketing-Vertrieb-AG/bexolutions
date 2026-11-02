@@ -51,131 +51,18 @@ Zudem dienen uns die Daten zur Optimierung der Website und zur generellen Sicher
 <p>Sie können jederzeit die Einschränkung der Verarbeitung gem. Art. 18 DSGVO verlangen oder der Bearbeitung gem. Art. 21 DSGVO widersprechen sowie eine Berichtigung oder Löschung der Daten gem. Art. 16 bzw. 17 DSGVO verlangen.
 Welche Rechte Ihnen zustehen und wie Sie diese geltend machen, finden Sie im unteren Bereich dieser Datenschutzerklärung.</p>
 
+<h4>Hosting</h4>
+<p>Unsere Website wird bei der Vercel Inc., 440 N Barranca Avenue #4133, Covina, CA 91723, USA, Website: <a href="https://vercel.com/" rel="noopener noreferrer" target="_blank">https://vercel.com/</a>, betrieben.</p>
+<p>Beim Aufruf unserer Website verarbeitet Vercel die für die Auslieferung technisch notwendigen Daten: IP-Adresse, Datum und Uhrzeit des Abrufs, aufgerufene Seite, Referrer-URL, Browser- und Geräteinformationen sowie Meldungen zum Erfolg des Abrufs (Server-Logfiles).
+Vercel betreibt ein weltweites Servernetz; die Auslieferung erfolgt über den Standort, der Ihnen am nächsten liegt. Eine Bearbeitung in den USA ist möglich.</p>
+<p>Rechtsgrundlage ist unser berechtigtes Interesse an einer sicheren, schnellen und stabilen Bereitstellung unserer Website (Art. 31 Abs. 1 DSG bzw. Art. 6 Abs. 1 lit. f DSGVO).</p>
+<p>Vercel ist unter dem EU-US Data Privacy Framework und dem Swiss-US Data Privacy Framework zertifiziert. Für die Übermittlung in die USA besteht damit ein Angemessenheitsbeschluss der EU-Kommission im Sinne des Art. 45 DSGVO; die Schweiz anerkennt die zertifizierten Unternehmen als angemessen geschützt.
+Die Zertifizierung können Sie unter <a href="https://www.dataprivacyframework.gov/list" rel="noopener noreferrer" target="_blank">https://www.dataprivacyframework.gov/list</a> abrufen.</p>
+<p>Weitere Informationen finden Sie in der Datenschutzerklärung des Anbieters unter <a href="https://vercel.com/legal/privacy-notice" rel="noopener noreferrer" target="_blank">https://vercel.com/legal/privacy-notice</a>.</p>
+
 <h2>Besondere Funktionen der Internetseite</h2>
 <p>Unsere Seite bietet Ihnen verschiedene Funktionen, bei deren Nutzung von uns personenbezogene Daten erhoben, bearbeitet und gespeichert werden.
 Nachfolgend erklären wir, was mit diesen Daten geschieht:</p>
-
-<h3>Bestellformular</h3>
-<ul>
-  <li>
-    <h4>Welche personenbezogenen Daten werden erhoben und in welchem Umfang werden diese bearbeitet?</h4>
-    <p>Die von Ihnen in die Formularfelder eingegebenen Daten, wie z.B. Adresse, Name, Vorname, etc., werden von uns zur Erfüllung des unten genannten Zwecks bearbeitet.</p>
-  </li>
-  <li>
-    <h4>Rechtsgrundlage für die Bearbeitung personenbezogener Daten</h4>
-    <p>Die Bearbeitung personenbezogener Daten erfolgt nach dem Prinzip der Rechtmässigkeit (Art. 6 Abs. 1 DSG) und nach dem Gebot von Treu und Glauben (Art. 6 Abs. 2 DSG bzw. Art. 2 ZGB) sowie Art. 6 Abs. 1 Bst. b DSGVO (Durchführung (vor)vertraglicher Massnahmen).</p>
-  </li>
-  <li>
-    <h4>Zweck der Datenbearbeitung</h4>
-    <p>Der Zweck der Datenbearbeitung besteht in der Bearbeitung Ihrer Bestellung, damit wir den mit Ihnen geschlossenen Vertrag erfüllen bzw. anbahnen können.</p>
-  </li>
-  <li>
-    <h4>Dauer der Speicherung</h4>
-    <p>Die Löschung der Daten erfolgt, sobald diese für die Bearbeitung der Bestellung nicht mehr benötigt werden und keine gesetzlichen Aufbewahrungspflichten mehr bestehen.
-    In der Regel sieht der Gesetzgeber eine Aufbewahrungspflicht von 10 Jahren vor.</p>
-  </li>
-  <li>
-    <h4>Widerspruchs-, Bearbeitungs-, Berichtigungs- und Löschungsmöglichkeit</h4>
-    <p>Sie können jederzeit die Verarbeitung gem. Art. 18 DSGVO einschränken, der Bearbeitung gem. Art. 21 DSGVO widersprechen sowie eine Berichtigung oder Löschung der Daten gem. Art. 16 bzw. 17 DSGVO verlangen.
-    Welche Rechte Ihnen zustehen und wie Sie diese geltend machen, finden Sie im unteren Bereich dieser Datenschutzerklärung.</p>
-  </li>
-  <li>
-    <h4>Erforderlichkeit der Angabe personenbezogener Daten</h4>
-    <p>Die Angaben im Bestellformular sind zum Abschluss eines Vertrages notwendig.
-    Sofern Sie die vorhandenen Pflichtfelder nicht oder nicht vollständig ausfüllen, kann die von Ihnen gewünschte Bestellung nicht ausgeführt werden.</p>
-  </li>
-</ul>
-
-<h3>Bewerbungsformular</h3>
-<ul>
-  <li>
-    <h4>Welche personenbezogenen Daten werden erhoben und in welchem Umfang werden diese bearbeitet?</h4>
-    <p>Die von Ihnen in die Formularfelder des Bewerbungsformulares eingegebenen und ggf. hochgeladenen Daten werden zur Erfüllung des unten genannten Zwecks bearbeitet.</p>
-  </li>
-  <li>
-    <h4>Rechtsgrundlage für die Bearbeitung personenbezogener Daten</h4>
-    <p>Die Bearbeitung personenbezogener Daten erfolgt nach dem Prinzip der Rechtmässigkeit (Art. 6 Abs. 1 DSG) und nach dem Gebot von Treu und Glauben (Art. 6 Abs. 2 DSG bzw. Art. 2 ZGB) sowie Art. 6 Abs. 1 lit. b DSGVO (Durchführung (vor)vertraglicher Massnahmen).</p>
-  </li>
-  <li>
-    <h4>Zweck der Datenbearbeitung</h4>
-    <p>Der Zweck der Datenbearbeitung liegt in der Prüfung und Bearbeitung der von Ihnen über das Formular hochgeladenen Bewerbungsunterlagen.</p>
-  </li>
-  <li>
-    <h4>Dauer der Speicherung</h4>
-    <p>Die Löschung der Daten erfolgt, sobald die Bewerbung bearbeitet wurde und kein berechtigtes Interesse an der Speicherung der Bewerbungsdaten mehr besteht.
-    Ihre Bewerbungsunterlagen werden daher, falls es nicht zu einem Arbeitsverhältnis kommt, nach spätestens 6 Monaten gelöscht.</p>
-  </li>
-  <li>
-    <h4>Widerspruchs-, Bearbeitungs-, Berichtigungs- und Löschungsmöglichkeit</h4>
-    <p>Sie können jederzeit die Verarbeitung gem. Art. 18 DSGVO einschränken, der Bearbeitung gem. Art. 21 DSGVO widersprechen sowie eine Berichtigung oder Löschung der Daten gem. Art. 16 bzw. 17 DSGVO verlangen.
-    Welche Rechte Ihnen zustehen und wie Sie diese geltend machen, finden Sie im unteren Bereich dieser Datenschutzerklärung.</p>
-  </li>
-  <li>
-    <h4>Erforderlichkeit der Angabe personenbezogener Daten</h4>
-    <p>Die Angaben im Bewerbungsformular sind zum Absenden und zur Bearbeitung der Bewerbung notwendig.
-    Sofern Sie die vorhandenen Pflichtfelder nicht oder nicht vollständig ausfüllen, kann die von Ihnen gewünschte Bewerbung nicht abgesendet oder bearbeitet werden.</p>
-  </li>
-</ul>
-
-<h3>Buchungsanfrage-Formular</h3>
-<ul>
-  <li>
-    <h4>Umfang der Bearbeitung personenbezogener Daten</h4>
-    <p>Die von Ihnen in unser Buchungsanfrage-Formular (Datum, Personenanzahl, etc.) eingegebenen Daten werden wir zur Erfüllung des nachfolgenden Zwecks bearbeiten.</p>
-  </li>
-  <li>
-    <h4>Rechtsgrundlage für die Bearbeitung personenbezogener Daten</h4>
-    <p>Die Bearbeitung personenbezogener Daten erfolgt nach dem Prinzip der Rechtmässigkeit (Art. 6 Abs. 1 DSG) und nach dem Gebot von Treu und Glauben (Abs. 2 DSG bzw. Art. 2 ZGB) sowie Art. 6 Abs. 1 lit. b DSGVO (Durchführung (vor)vertraglicher Massnahmen).</p>
-  </li>
-  <li>
-    <h4>Zweck der Datenbearbeitung</h4>
-    <p>Ein vorvertraglicher Informationsaustausch ist notwendig, um Ihre Buchung zu prüfen, damit wir einen möglichen späteren Vertragsabschluss vorbereiten können.</p>
-  </li>
-  <li>
-    <h4>Dauer der Speicherung</h4>
-    <p>Die Löschung der Daten erfolgt, sobald diese für die Bearbeitung der Buchung nicht mehr benötigt werden und keine gesetzlichen Aufbewahrungspflichten mehr bestehen.</p>
-  </li>
-  <li>
-    <h4>Widerspruchs-, Bearbeitungs-, Berichtigungs- und Löschungsmöglichkeit</h4>
-    <p>Sie können jederzeit die Verarbeitung gem. Art. 18 DSGVO einschränken, der Bearbeitung gem. Art. 21 DSGVO widersprechen sowie eine Berichtigung oder Löschung der Daten gem. Art. 16 bzw. 17 DSGVO verlangen.
-    Welche Rechte Ihnen zustehen und wie Sie diese geltend machen, finden Sie im unteren Bereich dieser Datenschutzerklärung.</p>
-  </li>
-  <li>
-    <h4>Erforderlichkeit der Angabe personenbezogener Daten</h4>
-    <p>Die Angaben im Buchungsanfrageformular sind erforderlich, um Ihre Buchung ordnungsgemäss bearbeiten zu können.
-    Sofern Sie die vorhandenen Pflichtfelder nicht oder nicht vollständig ausfüllen, kann die von Ihnen gewünschte Buchungsanfrage nicht durch uns bearbeitet werden.</p>
-  </li>
-</ul>
-
-<h3>Callback-Service</h3>
-<ul>
-  <li>
-    <h4>Welche personenbezogenen Daten werden erhoben und in welchem Umfang werden diese bearbeitet?</h4>
-    <p>Die von Ihnen in unser Call-Back-Formular eingegebenen Daten, wie z.B. Telefonnummer und Name, werden wir zur Erfüllung des nachfolgenden Zwecks bearbeiten.</p>
-  </li>
-  <li>
-    <h4>Rechtsgrundlage für die Bearbeitung personenbezogener Daten</h4>
-    <p>Die Bearbeitung personenbezogener Daten erfolgt nach dem Prinzip der Rechtmässigkeit (Art. 6 Abs. 1 DSG) und nach dem Gebot von Treu und Glauben (Art. 6 Abs. 2 DSG bzw. Art. 2 ZGB) sowie Art. 6 Abs. 1 lit. a DSGVO bzw. Art. 9 Abs. 2 lit. a DSGVO (Einwilligung durch eindeutige bestätigende Handlung bzw. Verhaltensweise oder ausdrückliche Einwilligung).</p>
-  </li>
-  <li>
-    <h4>Zweck der Datenbearbeitung</h4>
-    <p>Bereitstellung und Durchführung des Rückruf-Services, Erfüllung der Rückrufbitte.</p>
-  </li>
-  <li>
-    <h4>Dauer der Speicherung</h4>
-    <p>Die Löschung der Daten erfolgt, sobald diese für die Bearbeitung Ihres Rückrufwunsches nicht mehr erforderlich sind.</p>
-  </li>
-  <li>
-    <h4>Widerspruchs-, Bearbeitungs-, Berichtigungs- und Löschungsmöglichkeit</h4>
-    <p>Sie können jederzeit die Verarbeitung gem. Art. 18 DSGVO einschränken, der Bearbeitung gem. Art. 21 DSGVO widersprechen sowie eine Berichtigung oder Löschung der Daten gem. Art. 16 bzw. 17 DSGVO verlangen.
-    Welche Rechte Ihnen zustehen und wie Sie diese geltend machen, finden Sie im unteren Bereich dieser Datenschutzerklärung.</p>
-  </li>
-  <li>
-    <h4>Erforderlichkeit der Angabe personenbezogener Daten</h4>
-    <p>Die Angaben im Callback-Formular sind gesetzlich nicht vorgeschrieben.
-    Sofern Sie die vorhandenen Pflichtfelder nicht oder nicht vollständig ausfüllen, kann die von Ihnen gewünschte Rückrufbitte nicht durch uns bearbeitet werden.</p>
-  </li>
-</ul>
 
 <h3>Kontaktformular(e)</h3>
 <ul>
@@ -209,75 +96,6 @@ Nachfolgend erklären wir, was mit diesen Daten geschieht:</p>
     Sie sind nicht verpflichtet mit uns über das Kontaktformular Kontakt aufzunehmen, sondern können auch die weiteren, auf unserer Seite angegebenen Kontaktmöglichkeiten, nutzen.
     Sofern Sie unser Kontaktformular nutzen möchten, müssen Sie die als Pflichtangaben gekennzeichneten Felder ausfüllen.
     Sofern Sie die notwendigen Angaben des Kontaktformulares nicht ausfüllen, können Sie entweder die Anfrage nicht absenden oder wir können Ihre Anfrage mangels Angaben nicht bearbeiten.</p>
-  </li>
-</ul>
-
-<h3>Live-Chat-Funktion</h3>
-<ul>
-  <li>
-    <h4>Umfang der Bearbeitung personenbezogener Daten</h4>
-    <p>Die von Ihnen in unserem Live-Chat eingegebenen Daten, wie z.B. Name und Inhalte.</p>
-  </li>
-  <li>
-    <h4>Rechtsgrundlage für die Bearbeitung personenbezogener Daten</h4>
-    <p>Die Bearbeitung personenbezogener Daten erfolgt nach dem Prinzip der Rechtmässigkeit (Art. 6 Abs. 1 DSG) und nach dem Gebot von Treu und Glauben (Art. 6 Abs. 2 DSG bzw. Art. 2 ZGB) sowie Art. 6 Abs. 1 lit. a DSGVO bzw. Art. 9 Abs. 2 lit. a DSGVO (Einwilligung durch eindeutige bestätigende Handlung bzw. Verhaltensweise oder ausdrückliche Einwilligung).</p>
-  </li>
-  <li>
-    <h4>Zweck der Datenbearbeitung</h4>
-    <p>Die über unseren Live-Chat aufgenommenen Daten werden wir nur für die Bearbeitung von Anfragen, die durch unseren Live-Chat eingehen, verwenden.</p>
-  </li>
-  <li>
-    <h4>Dauer der Speicherung</h4>
-    <p>Nach Bearbeitung Ihrer Anfrage, die bei uns in unserem Live-Chat eingegangen ist, werden die erhobenen Daten unverzüglich gelöscht, soweit keine gesetzlichen Aufbewahrungsfristen bestehen.</p>
-  </li>
-  <li>
-    <h4>Einschränkungs-, Widerspruchs-, Berichtigungs- und Löschungsmöglichkeit</h4>
-    <p>Sie können jederzeit die Einschränkung der Verarbeitung gem. Art. 18 DSGVO verlangen oder der Bearbeitung gem. Art. 21 DSGVO widersprechen sowie eine Berichtigung oder Löschung der Daten gem. Art. 16 bzw. 17 DSGVO verlangen.
-    Welche Rechte Ihnen zustehen und wie Sie diese geltend machen, finden Sie im unteren Bereich dieser Datenschutzerklärung.</p>
-  </li>
-  <li>
-    <h4>Erforderlichkeit der Angabe personenbezogener Daten</h4>
-    <p>Die Nutzung des Live-Chats erfolgt auf freiwilliger Basis.
-    Sie sind nicht verpflichtet, mit uns über den Live-Chat Kontakt aufzunehmen.
-    Sie können auch die weiteren - auf unserer Seite angegebenen - Kontaktmöglichkeiten nutzen.
-    Sofern Sie die notwendigen Angaben nicht eingeben, können Sie unseren Live-Chat nicht nutzen.</p>
-  </li>
-</ul>
-
-<h3>Formular zur Newsletter-Anmeldung</h3>
-<ul>
-  <li>
-    <h4>Welche personenbezogenen Daten werden erhoben und in welchem Umfang werden diese bearbeitet?</h4>
-    <p>Durch die Anmeldung zum Newsletter auf unserer Website erhalten wir die im Anmeldefeld durch Sie eingegebene E-Mailadresse und ggf. weitere Kontaktdaten, sofern Sie uns diese über das Newsletter-Anmeldeformular mitteilen.</p>
-  </li>
-  <li>
-    <h4>Rechtsgrundlage für die Bearbeitung personenbezogener Daten</h4>
-    <p>Die Bearbeitung personenbezogener Daten erfolgt nach dem Prinzip der Rechtmässigkeit (Art. 6 Abs. 1 DSG) und nach dem Gebot von Treu und Glauben (Art. 6 Abs. 2 DSG bzw. Art. 2 ZGB) sowie Art. 6 Abs. 1 lit. a DSGVO bzw. Art. 9 Abs. 2 lit. a DSGVO (Einwilligung durch eindeutige bestätigende Handlung bzw. Verhaltensweise oder ausdrückliche Einwilligung).</p>
-  </li>
-  <li>
-    <h4>Zweck der Datenbearbeitung</h4>
-    <p>Die in der Anmeldemaske unseres Newsletters aufgenommenen Daten werden von uns ausschliesslich für den Versand unseres Newsletters verwendet, in dem wir über alle unsere Leistungen und unsere Neuigkeiten informieren.
-    Wir werden Ihnen nach der Anmeldung eine Bestätigungs-E-Mail senden, in der ein Link enthalten ist, den Sie anklicken müssen, um die Anmeldung zu unserem Newsletter abzuschliessen (Double-Opt-In).
-    Damit geben Sie Ihre Einwilligung zur Datenbearbeitung nach Art. 6 Abs. 6 DSG.</p>
-  </li>
-  <li>
-    <h4>Dauer der Speicherung</h4>
-    <p>Unser Newsletter kann jederzeit durch Anklicken des Abmelde-Links, der auch in jedem Newsletter enthalten ist, abbestellt werden.
-    Ihre Daten werden unverzüglich nach der Abmeldung von uns gelöscht, sofern keine gesetzlichen Aufbewahrungspflichten bestehen.
-    Ebenso werden Ihre Daten im Falle einer nicht abgeschlossenen Anmeldung unverzüglich von uns gelöscht.
-    Wir behalten uns die Löschung ohne Angaben von Gründen und ohne vorherige oder nachträgliche Information vor.</p>
-  </li>
-  <li>
-    <h4>Einschränkungs-, Widerspruchs-, Berichtigungs- und Löschungsmöglichkeit</h4>
-    <p>Sie können jederzeit die Einschränkung der Verarbeitung gem. Art. 18 DSGVO verlangen oder der Bearbeitung gem. Art. 21 DSGVO widersprechen sowie eine Berichtigung oder Löschung der Daten gem. Art. 16 bzw. 17 DSGVO verlangen.
-    Welche Rechte Ihnen zustehen und wie Sie diese geltend machen, finden Sie im unteren Bereich dieser Datenschutzerklärung.</p>
-  </li>
-  <li>
-    <h4>Erforderlichkeit der Angabe personenbezogener Daten</h4>
-    <p>Sofern Sie unseren Newsletter nutzen möchten, müssen Sie die als Pflichtangaben gekennzeichneten Felder ausfüllen und uns die E-Mail-Adresse durch Anklicken des Double-Opt-In Links bestätigen.
-    Die Angaben zur Newsletteranmeldung sind notwendig, um vom Newsletter-Angebot Gebrauch machen zu können.
-    Die Angaben dienen ausschliesslich der Versendung unseres Newsletters.
-    Sofern Sie die Pflichtfelder nicht ausfüllen, können wir Ihnen unseren Newsletterservice nicht zur Verfügung stellen.</p>
   </li>
 </ul>
 
@@ -345,6 +163,54 @@ Wir setzen zur Auswertung der Besuche dieser Internetseite zudem noch folgende W
     <p>Weitere Informationen zum Handling der übertragenen Daten finden Sie in der Datenschutzerklärung des Anbieters unter <a href="https://policies.google.com/privacy" rel="noopener noreferrer" target="_blank">https://policies.google.com/privacy</a>.</p>
     <p>Der Anbieter bietet unter <a href="https://support.google.com/My-Ad-Center-Help/answer/12155451?hl=de" rel="noopener noreferrer" target="_blank">https://support.google.com/My-Ad-Center-Help/answer/12155451?hl=de</a> zusätzlich eine Opt-Out Möglichkeit an.</p>
   </li>
+  <li>
+    <h3 id="tracker-google-tag-manager">Google Tag Manager</h3>
+    <p>Wir verwenden auf unserer Seite den Dienst Google Tag Manager des Unternehmens Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland, Website: <a href="https://www.google.com/" rel="noopener noreferrer" target="_blank">https://www.google.com/</a>.</p>
+    <p>Der Google Tag Manager ist ein Werkzeug, mit dem wir Messcodes (sog. Tags) auf unserer Website verwalten. Er selbst setzt keine Cookies und wertet keine Daten aus.
+    Er steuert, ob und wann andere Dienste wie Google Analytics 4 oder Google Ads geladen werden, und berücksichtigt dabei Ihre Auswahl im Cookie-Banner.</p>
+    <p>Beim Laden des Tag Managers wird Ihre IP-Adresse an Google übermittelt, damit die Dateien ausgeliefert werden können. Dabei werden zudem Datum und Uhrzeit, die aufgerufene Seite sowie Browser- und Geräteinformationen verarbeitet.</p>
+    <p>Rechtsgrundlage ist unser berechtigtes Interesse an einer effizienten und einwilligungsgerechten Verwaltung der auf unserer Website eingesetzten Dienste (Art. 31 Abs. 1 DSG bzw. Art. 6 Abs. 1 lit. f DSGVO).</p>
+    <p>Im Rahmen der Auftragsbearbeitung kann es zu einer Übermittlung personenbezogener Daten an die Server der Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, kommen.
+    Google ist unter dem EU-US Data Privacy Framework und dem Swiss-US Data Privacy Framework zertifiziert. Für die Übermittlung in die USA besteht damit ein Angemessenheitsbeschluss der EU-Kommission im Sinne des Art. 45 DSGVO; die Schweiz anerkennt die zertifizierten Unternehmen als angemessen geschützt.
+    Die Zertifizierung können Sie unter <a href="https://www.dataprivacyframework.gov/list" rel="noopener noreferrer" target="_blank">https://www.dataprivacyframework.gov/list</a> abrufen.</p>
+    <p>Weitere Informationen finden Sie in den Nutzungsrichtlinien des Google Tag Managers unter <a href="https://marketingplatform.google.com/about/analytics/tag-manager/use-policy/" rel="noopener noreferrer" target="_blank">https://marketingplatform.google.com/about/analytics/tag-manager/use-policy/</a> und in der Datenschutzerklärung von Google unter <a href="https://policies.google.com/privacy" rel="noopener noreferrer" target="_blank">https://policies.google.com/privacy</a>.</p>
+  </li>
+  <li>
+    <h3 id="tracker-google-analytics">Google Analytics 4</h3>
+    <p>Wir verwenden auf unserer Seite den Dienst Google Analytics 4 des Unternehmens Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland, Website: <a href="https://www.google.com/" rel="noopener noreferrer" target="_blank">https://www.google.com/</a>.</p>
+    <p>Mit Google Analytics werten wir aus, wie unsere Website genutzt wird: welche Seiten aufgerufen werden, wie lange Besucherinnen und Besucher bleiben, über welche Kanäle sie zu uns kommen und welche Kontaktmöglichkeiten sie nutzen, zum Beispiel einen Klick auf «Termin vereinbaren» oder das Absenden des Kontaktformulars.
+    So verbessern wir unsere Inhalte und messen den Erfolg unserer Marketingmassnahmen.</p>
+    <p><strong>Mit Ihrer Einwilligung.</strong> Google Analytics setzt Cookies nur, wenn Sie im Cookie-Banner «Alle akzeptieren» wählen.
+    Dann werden folgende Daten bearbeitet: eine pseudonyme Kennung (Client-ID), aufgerufene Seiten, Datum und Uhrzeit, Verweildauer, Referrer-URL, ungefährer Standort (Land und Region, aus der IP-Adresse abgeleitet), Gerät, Browser, Betriebssystem, Bildschirmauflösung sowie Interaktionen wie Klicks und Scrollen.
+    Inhalte von Formularen sowie Namen, E-Mail-Adressen oder Telefonnummern übermitteln wir nicht an Google Analytics.
+    Google Analytics speichert keine IP-Adressen von Nutzerinnen und Nutzern aus der Schweiz und der EU; die IP-Adresse wird nur zur Ableitung des ungefähren Standorts verwendet und danach sofort verworfen.</p>
+    <p><strong>Ohne Ihre Einwilligung.</strong> Wir nutzen den Einwilligungsmodus von Google (Consent Mode). Solange Sie nicht zugestimmt oder die Zustimmung abgelehnt haben, werden keine Cookies gesetzt.
+    Google erhält in diesem Fall nur cookielose Signale, etwa dass eine Seite aufgerufen wurde, den Zeitpunkt, Browser-Informationen und den Einwilligungsstatus.
+    Diese Signale werden nicht mit einer Kennung verknüpft, die Sie über mehrere Seitenaufrufe wiedererkennt. Google verwendet sie, um Gesamtzahlen statistisch zu schätzen.</p>
+    <p>Rechtsgrundlage für die Bearbeitung mit Cookies ist Ihre Einwilligung gem. Art. 6 Abs. 6 DSG bzw. Art. 31 Abs. 2 DSG und gem. Art. 6 Abs. 1 lit. a DSGVO.
+    Rechtsgrundlage für die cookielosen Signale ist unser berechtigtes Interesse an einer datensparsamen Reichweitenmessung (Art. 31 Abs. 1 DSG bzw. Art. 6 Abs. 1 lit. f DSGVO).</p>
+    <p>Die Ereignisdaten werden nach 14 Monaten automatisch gelöscht. Google bearbeitet die Daten als Auftragsbearbeiter; für Unternehmen mit Sitz in der Schweiz gelten dabei die Google Ads Data Processing Terms, die Bestandteil der Nutzungsbedingungen von Google Analytics sind.</p>
+    <p>Im Rahmen der Auftragsbearbeitung kann es zu einer Übermittlung personenbezogener Daten an die Server der Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, kommen.
+    Google ist unter dem EU-US Data Privacy Framework und dem Swiss-US Data Privacy Framework zertifiziert. Für die Übermittlung in die USA besteht damit ein Angemessenheitsbeschluss der EU-Kommission im Sinne des Art. 45 DSGVO; die Schweiz anerkennt die zertifizierten Unternehmen als angemessen geschützt.
+    Die Zertifizierung können Sie unter <a href="https://www.dataprivacyframework.gov/list" rel="noopener noreferrer" target="_blank">https://www.dataprivacyframework.gov/list</a> abrufen.</p>
+    <p>Ihre Einwilligung können Sie jederzeit in den <a href="/cookie-einstellungen">Cookie-Einstellungen</a> widerrufen. Zusätzlich bietet Google unter <a href="https://tools.google.com/dlpage/gaoptout?hl=de" rel="noopener noreferrer" target="_blank">https://tools.google.com/dlpage/gaoptout?hl=de</a> ein Browser-Add-on zur Deaktivierung von Google Analytics an.
+    Weitere Informationen finden Sie unter <a href="https://policies.google.com/privacy" rel="noopener noreferrer" target="_blank">https://policies.google.com/privacy</a> und <a href="https://support.google.com/analytics/answer/6004245?hl=de" rel="noopener noreferrer" target="_blank">https://support.google.com/analytics/answer/6004245?hl=de</a>.</p>
+  </li>
+  <li>
+    <h3 id="tracker-google-ads">Google Ads: Conversion-Tracking und Remarketing</h3>
+    <p>Wir verwenden auf unserer Seite die Dienste Google Ads Conversion-Tracking und Google Ads Remarketing des Unternehmens Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland, Website: <a href="https://www.google.com/" rel="noopener noreferrer" target="_blank">https://www.google.com/</a>.</p>
+    <p>Mit dem Conversion-Tracking messen wir, ob Personen, die über eine unserer Anzeigen auf unsere Website gelangen, danach eine Aktion ausführen, zum Beispiel eine Anfrage senden oder einen Termin buchen.
+    Mit Remarketing können wir Personen, die unsere Website besucht haben, auf anderen Websites und in Google-Diensten erneut Anzeigen von Bexolutions zeigen.</p>
+    <p>Diese Dienste setzen Cookies nur, wenn Sie im Cookie-Banner «Alle akzeptieren» wählen.
+    Dann werden folgende Daten bearbeitet: pseudonyme Kennungen in Cookies, aufgerufene Seiten, Datum und Uhrzeit, Klicks auf Anzeigen sowie Browser- und Geräteinformationen.
+    Ohne Ihre Zustimmung setzen die Dienste keine Cookies; Google erhält dann nur cookielose Signale wie im Abschnitt zu Google Analytics 4 beschrieben.</p>
+    <p>Rechtsgrundlage ist Ihre Einwilligung gem. Art. 6 Abs. 6 DSG bzw. Art. 31 Abs. 2 DSG und gem. Art. 6 Abs. 1 lit. a DSGVO, die Sie auf unserer Internetseite getätigt haben.</p>
+    <p>Im Rahmen der Auftragsbearbeitung kann es zu einer Übermittlung personenbezogener Daten an die Server der Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, kommen.
+    Google ist unter dem EU-US Data Privacy Framework und dem Swiss-US Data Privacy Framework zertifiziert. Für die Übermittlung in die USA besteht damit ein Angemessenheitsbeschluss der EU-Kommission im Sinne des Art. 45 DSGVO; die Schweiz anerkennt die zertifizierten Unternehmen als angemessen geschützt.
+    Die Zertifizierung können Sie unter <a href="https://www.dataprivacyframework.gov/list" rel="noopener noreferrer" target="_blank">https://www.dataprivacyframework.gov/list</a> abrufen.</p>
+    <p>Ihre Einwilligung können Sie jederzeit in den <a href="/cookie-einstellungen">Cookie-Einstellungen</a> widerrufen. Personalisierte Werbung von Google können Sie zusätzlich unter <a href="https://myadcenter.google.com/" rel="noopener noreferrer" target="_blank">https://myadcenter.google.com/</a> deaktivieren.
+    Weitere Informationen finden Sie unter <a href="https://policies.google.com/privacy" rel="noopener noreferrer" target="_blank">https://policies.google.com/privacy</a> und <a href="https://policies.google.com/technologies/ads?hl=de" rel="noopener noreferrer" target="_blank">https://policies.google.com/technologies/ads?hl=de</a>.</p>
+  </li>
 </ul>
 
 <h2>Einbindung externer Webservices und Bearbeitung von Daten ausserhalb der EU</h2>
@@ -394,6 +260,32 @@ Hierdurch kann es zu Funktionseinschränkungen auf Internetseiten kommen, die Si
     Nähere Informationen zum Widerruf Ihrer Einwilligung finden Sie entweder bei der Einwilligung selbst oder am Ende dieser Datenschutzerklärung.</p>
     <p>Weitere Informationen zum Handling der übertragenen Daten finden Sie in der Datenschutzerklärung des Anbieters unter <a href="https://policies.google.com/privacy" rel="noopener noreferrer" target="_blank">https://policies.google.com/privacy</a>.</p>
     <p>Der Anbieter bietet unter <a href="https://support.google.com/My-Ad-Center-Help/answer/12155451?hl=de" rel="noopener noreferrer" target="_blank">https://support.google.com/My-Ad-Center-Help/answer/12155451?hl=de</a> zusätzlich eine Opt-Out Möglichkeit an.</p>
+  </li>
+  <li>
+    <h3 id="tracker-calendly">Calendly (Terminbuchung)</h3>
+    <p>Für die Buchung von Gesprächsterminen, zum Beispiel der kostenlosen Sichtbarkeitsanalyse, verwenden wir den Dienst Calendly der Calendly LLC, 115 E Main St, Ste A1B, Buford, GA 30518, USA, Website: <a href="https://calendly.com/" rel="noopener noreferrer" target="_blank">https://calendly.com/</a>.</p>
+    <p>Wenn Sie auf «Termin vereinbaren» klicken, gelangen Sie auf die Buchungsseite von Calendly.
+    Dort bearbeitet Calendly die Angaben, die Sie bei der Buchung machen: Name, E-Mail-Adresse, gewählter Termin, Zeitzone und Ihre Antworten auf allfällige Fragen, zum Beispiel Unternehmen, Website oder Telefonnummer.
+    Zudem verarbeitet Calendly technische Daten wie IP-Adresse und Browser-Informationen.</p>
+    <p>Wir verwenden diese Angaben, um den Termin durchzuführen, Ihnen Termininformationen zu senden und das Gespräch vorzubereiten.
+    Rechtsgrundlage ist die Durchführung vorvertraglicher Massnahmen auf Ihre Anfrage (Art. 31 Abs. 2 lit. a DSG bzw. Art. 6 Abs. 1 lit. b DSGVO).</p>
+    <p>Die Buchungsdaten bewahren wir so lange auf, wie es für die Bearbeitung Ihrer Anfrage und eine allfällige Geschäftsbeziehung erforderlich ist. Entsteht keine Geschäftsbeziehung, löschen wir sie spätestens 24 Monate nach dem letzten Kontakt.</p>
+    <p>Calendly bearbeitet die Daten in den USA. Calendly ist unter dem EU-US Data Privacy Framework und dem Swiss-US Data Privacy Framework zertifiziert; die Zertifizierung können Sie unter <a href="https://www.dataprivacyframework.gov/list" rel="noopener noreferrer" target="_blank">https://www.dataprivacyframework.gov/list</a> abrufen.
+    Calendly bearbeitet die Daten als Auftragsbearbeiter gemäss seinem Data Processing Addendum, das Bestandteil der Nutzungsbedingungen ist.</p>
+    <p>Weitere Informationen finden Sie in der Datenschutzerklärung des Anbieters unter <a href="https://calendly.com/legal/privacy-notice" rel="noopener noreferrer" target="_blank">https://calendly.com/legal/privacy-notice</a>.</p>
+  </li>
+  <li>
+    <h3 id="tracker-hubspot">HubSpot (Kundenverwaltung)</h3>
+    <p>Für die Verwaltung von Anfragen und Kundenbeziehungen verwenden wir die Software HubSpot der HubSpot Ireland Limited, 1 Sir John Rogerson&apos;s Quay, Dublin 2, Irland, einer Tochtergesellschaft der HubSpot, Inc., 2 Canal Park, Cambridge, MA 02141, USA, Website: <a href="https://www.hubspot.com/" rel="noopener noreferrer" target="_blank">https://www.hubspot.com/</a>.</p>
+    <p>Wenn Sie uns über das Kontaktformular schreiben, speichern wir Ihre Angaben (Anrede, Vorname, Nachname, E-Mail-Adresse, Telefonnummer, Unternehmen, Thema und Nachricht) zusammen mit der Herkunft Ihres Besuchs (Einstiegsseite, verweisende Website und allfällige Kampagnen-Parameter wie utm_source) in HubSpot.
+    Das Kontaktformular selbst setzt dafür keine HubSpot-Cookies und lädt keine Skripte von HubSpot.</p>
+    <p>Wir verwenden diese Angaben, um Ihre Anfrage zu beantworten, das weitere Vorgehen zu planen und eine allfällige Geschäftsbeziehung zu führen.
+    Rechtsgrundlage ist die Durchführung vorvertraglicher Massnahmen auf Ihre Anfrage (Art. 31 Abs. 2 lit. a DSG bzw. Art. 6 Abs. 1 lit. b DSGVO) sowie unser berechtigtes Interesse an einer geordneten Bearbeitung von Anfragen (Art. 31 Abs. 1 DSG bzw. Art. 6 Abs. 1 lit. f DSGVO).</p>
+    <p>Die Daten bewahren wir so lange auf, wie es für die Bearbeitung Ihrer Anfrage und eine allfällige Geschäftsbeziehung erforderlich ist. Entsteht keine Geschäftsbeziehung, löschen wir sie spätestens 24 Monate nach dem letzten Kontakt.</p>
+    <p>Unser HubSpot-Konto wird im Rechenzentrum von HubSpot in der Europäischen Union (Deutschland) betrieben.
+    Ein Zugriff durch die HubSpot, Inc. oder weitere Unterauftragsbearbeiter in den USA ist dennoch möglich. HubSpot, Inc. ist unter dem EU-US Data Privacy Framework und dem Swiss-US Data Privacy Framework zertifiziert; die Zertifizierung können Sie unter <a href="https://www.dataprivacyframework.gov/list" rel="noopener noreferrer" target="_blank">https://www.dataprivacyframework.gov/list</a> abrufen.
+    HubSpot bearbeitet die Daten als Auftragsbearbeiter gemäss seinem Data Processing Agreement, das Bestandteil der Kundenbedingungen ist.</p>
+    <p>Weitere Informationen finden Sie in der Datenschutzerklärung des Anbieters unter <a href="https://legal.hubspot.com/de/privacy-policy" rel="noopener noreferrer" target="_blank">https://legal.hubspot.com/de/privacy-policy</a>.</p>
   </li>
   <li>
     <h3 id="tracker-legally-ok">Legally ok</h3>
@@ -461,6 +353,51 @@ Details sind in der folgenden Tabelle aufgeführt:</p>
       <td data-header="Rechtsgrundlage">Berechtigtes Interesse</td>
       <td data-header="Speicherdauer">ca. 12 Monate</td>
       <td data-header="Typ">Konfiguration</td>
+    </tr>
+    <tr>
+      <td data-header="Cookie-Name">legally_cbconsent</td>
+      <td data-header="Server"><a href="https://www.bexolutions.ch" rel="noopener noreferrer" target="_blank">www.bexolutions.ch</a></td>
+      <td data-header="Anbieter">Legally ok GmbH</td>
+      <td data-header="Zweck">Speichert Ihre Auswahl im Cookie-Banner, damit sie bei weiteren Seitenaufrufen gilt.</td>
+      <td data-header="Rechtsgrundlage">Berechtigtes Interesse</td>
+      <td data-header="Speicherdauer">182 Tage</td>
+      <td data-header="Typ">Notwendig</td>
+    </tr>
+    <tr>
+      <td data-header="Cookie-Name">_ga</td>
+      <td data-header="Server"><a href="https://bexolutions.ch" rel="noopener noreferrer" target="_blank">.bexolutions.ch</a></td>
+      <td data-header="Anbieter">Google Ireland Limited</td>
+      <td data-header="Zweck">Unterscheidet Besucherinnen und Besucher mit einer pseudonymen Kennung für die Statistik von Google Analytics 4.</td>
+      <td data-header="Rechtsgrundlage">Einwilligung</td>
+      <td data-header="Speicherdauer">400 Tage</td>
+      <td data-header="Typ">Analyse</td>
+    </tr>
+    <tr>
+      <td data-header="Cookie-Name">_ga_5XRHHZKTTY</td>
+      <td data-header="Server"><a href="https://bexolutions.ch" rel="noopener noreferrer" target="_blank">.bexolutions.ch</a></td>
+      <td data-header="Anbieter">Google Ireland Limited</td>
+      <td data-header="Zweck">Speichert den Sitzungsstatus für Google Analytics 4.</td>
+      <td data-header="Rechtsgrundlage">Einwilligung</td>
+      <td data-header="Speicherdauer">400 Tage</td>
+      <td data-header="Typ">Analyse</td>
+    </tr>
+    <tr>
+      <td data-header="Cookie-Name">_gcl_au</td>
+      <td data-header="Server"><a href="https://bexolutions.ch" rel="noopener noreferrer" target="_blank">.bexolutions.ch</a></td>
+      <td data-header="Anbieter">Google Ireland Limited</td>
+      <td data-header="Zweck">Ordnet Anfragen und Terminbuchungen den Google-Anzeigen zu, über die jemand auf die Website kam (Conversion-Tracking).</td>
+      <td data-header="Rechtsgrundlage">Einwilligung</td>
+      <td data-header="Speicherdauer">90 Tage</td>
+      <td data-header="Typ">Marketing</td>
+    </tr>
+    <tr>
+      <td data-header="Cookie-Name">IDE</td>
+      <td data-header="Server">.doubleclick.net</td>
+      <td data-header="Anbieter">Google Ireland Limited</td>
+      <td data-header="Zweck">Wird für Remarketing und die Auslieferung von Anzeigen auf anderen Websites verwendet.</td>
+      <td data-header="Rechtsgrundlage">Einwilligung</td>
+      <td data-header="Speicherdauer">400 Tage</td>
+      <td data-header="Typ">Marketing</td>
     </tr>
   </tbody>
 </table>
@@ -564,4 +501,6 @@ Zudem steht Ihnen jede andere rechtliche Möglichkeit offen.
 Unabhängig davon steht Ihnen gem. Art. 77 Abs. 1 DSGVO die Möglichkeit zur Verfügung, sich an eine Aufsichtsbehörde zu wenden.
 Das Beschwerderecht gem. Art. 77 DSGVO steht Ihnen in dem EU-Mitgliedstaat Ihres Aufenthaltsortes, Ihres Arbeitsplatzes und/oder des Ortes des vermeintlichen Verstosses zu, d.h. Sie können die Aufsichtsbehörde, an die Sie sich wenden, aus den oben genannten Orten wählen.
 Die Aufsichtsbehörde, bei der die Beschwerde eingereicht wurde, unterrichtet Sie dann über den Stand und die Ergebnisse Ihrer Eingabe, einschliesslich der Möglichkeit eines gerichtlichen Rechtsbehelfs gem. Art. 78 DSGVO.</p>
+
+<p><strong>Stand: November 2026</strong></p>
 `.trim()

@@ -121,11 +121,33 @@ async function call(
       signal: controller.signal,
     })
     const text = await res.text()
-    const data = text ? JSON.parse(text) : {}
-    return { status: res.status, data }
+    return { status: res.status, data: text ? parseJson(text, res.status) : {} }
   } finally {
     clearTimeout(timer)
   }
+}
+
+function parseJson(text: string, status: number): Record<string, any> {
+  try {
+    const data = JSON.parse(text)
+    if (!data || typeof data !== "object" || Array.isArray(data)) {
+      throw new Error("not an object")
+    }
+    return data
+  } catch (error) {
+    if (error instanceof Error && error.message.startsWith("HubSpot "))
+      throw error
+    throw new Error(`HubSpot response was not JSON (${status})`)
+  }
+}
+
+/** HubSpot object ids are decimal. Anything else must not be interpolated into a URL. */
+function objectId(value: unknown, step: string): string {
+  const id = String(value ?? "")
+  if (!/^\d+$/.test(id)) {
+    throw new Error(`HubSpot ${step} returned an invalid id`)
+  }
+  return id
 }
 
 function fail(step: string, status: number, data: Record<string, any>): never {
@@ -160,9 +182,13 @@ async function upsertContact(
     },
   )
   if (search.status >= 400) fail("contact search", search.status, search.data)
-  const existingId: string | undefined = search.data.results?.[0]?.id
-
-  if (existingId) {
+  const rawExistingId = search.data.results?.[0]?.id
+  if (
+    rawExistingId !== undefined &&
+    rawExistingId !== null &&
+    String(rawExistingId) !== ""
+  ) {
+    const existingId = objectId(rawExistingId, "contact search")
     // Existing contact: update details, never touch the lifecycle stage
     // (HubSpot rejects moving a customer back to "lead").
     const res = await call(
@@ -184,10 +210,10 @@ async function upsertContact(
   if (res.status === 409) {
     // Created in the meantime (search index lag): HubSpot names the existing ID.
     const id = /Existing ID: (\d+)/.exec(String(res.data.message ?? ""))?.[1]
-    if (id) return { id, created: false }
+    if (id) return { id: objectId(id, "contact create"), created: false }
   }
   if (res.status >= 400) fail("contact create", res.status, res.data)
-  return { id: String(res.data.id), created: true }
+  return { id: objectId(res.data.id, "contact create"), created: true }
 }
 
 export async function syncLeadToHubspot(
@@ -214,7 +240,7 @@ export async function syncLeadToHubspot(
     ],
   })
   if (deal.status >= 400) fail("deal create", deal.status, deal.data)
-  const dealId = String(deal.data.id)
+  const dealId = objectId(deal.data.id, "deal create")
 
   const note = await call(fetchFn, token, "POST", "/crm/v3/objects/notes", {
     properties: {
@@ -248,7 +274,7 @@ export async function syncLeadToHubspot(
   return {
     contactId: contact.id,
     dealId,
-    noteId: String(note.data.id),
+    noteId: objectId(note.data.id, "note create"),
     contactCreated: contact.created,
   }
 }

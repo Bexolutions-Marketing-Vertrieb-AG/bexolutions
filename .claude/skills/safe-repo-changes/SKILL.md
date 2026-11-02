@@ -10,7 +10,7 @@ You are editing the Bexolutions website repo (Bexolutions-Marketing-Vertrieb-AG/
 | Who                  | Role                           | Gets a message when                                                                      |
 | -------------------- | ------------------------------ | ---------------------------------------------------------------------------------------- |
 | arrobabeto (Alberto) | Site admin, reviews and merges | Every task                                                                               |
-| Marisol              | Project manager                | The task affects deadlines, priorities, clients or needs someone outside the repo to act |
+| Silvia (Marisol)     | Project manager                | The task affects deadlines, priorities, clients or needs someone outside the repo to act |
 | Fernanda             | UI/UX                          | The task changes anything visible: Design, Structure, Copy on pages, new components      |
 
 ## Categories
@@ -57,7 +57,7 @@ Every commit, PR title and branch carries one category. Use the main ones; add a
 9. **Report in the conversation**, in English:
    - a summary of the task in non-technical language: what changed on the site, why, what was tested, what is still open
    - a message for arrobabeto (always): PR link, what to review, risks, what to do after merge
-   - a message for Marisol and/or Fernanda when the table above says so
+   - a message for Silvia and/or Fernanda when the table above says so
 
 ## Hard stops
 

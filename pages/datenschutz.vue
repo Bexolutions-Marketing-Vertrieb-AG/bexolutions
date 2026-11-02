@@ -15,7 +15,7 @@
     path: "/datenschutz",
     title: "Datenschutzerklärung — Bexolutions",
     description:
-      "Datenschutzerklärung der Bexolutions Marketing & Vertrieb AG.",
+      "Datenschutzerklärung der Bexolutions Marketing und Vertrieb AG.",
     breadcrumbs: [
       { name: "Home", path: "/" },
       { name: "Datenschutz", path: "/datenschutz" },

@@ -75,6 +75,51 @@ export const cookieEinstellungenHtml = `
       <td data-header="Speicherdauer">ca. 12 Monate</td>
       <td data-header="Typ">Konfiguration</td>
     </tr>
+    <tr>
+      <td data-header="Cookie-Name">legally_cbconsent</td>
+      <td data-header="Server"><a href="https://www.bexolutions.ch" rel="noopener noreferrer" target="_blank">www.bexolutions.ch</a></td>
+      <td data-header="Anbieter">Legally ok GmbH</td>
+      <td data-header="Zweck">Speichert Ihre Auswahl im Cookie-Banner, damit sie bei weiteren Seitenaufrufen gilt.</td>
+      <td data-header="Rechtsgrundlage">Berechtigtes Interesse</td>
+      <td data-header="Speicherdauer">182 Tage</td>
+      <td data-header="Typ">Notwendig</td>
+    </tr>
+    <tr>
+      <td data-header="Cookie-Name">_ga</td>
+      <td data-header="Server"><a href="https://bexolutions.ch" rel="noopener noreferrer" target="_blank">.bexolutions.ch</a></td>
+      <td data-header="Anbieter">Google Ireland Limited</td>
+      <td data-header="Zweck">Unterscheidet Besucherinnen und Besucher mit einer pseudonymen Kennung für die Statistik von Google Analytics 4.</td>
+      <td data-header="Rechtsgrundlage">Einwilligung</td>
+      <td data-header="Speicherdauer">400 Tage</td>
+      <td data-header="Typ">Analyse</td>
+    </tr>
+    <tr>
+      <td data-header="Cookie-Name">_ga_5XRHHZKTTY</td>
+      <td data-header="Server"><a href="https://bexolutions.ch" rel="noopener noreferrer" target="_blank">.bexolutions.ch</a></td>
+      <td data-header="Anbieter">Google Ireland Limited</td>
+      <td data-header="Zweck">Speichert den Sitzungsstatus für Google Analytics 4.</td>
+      <td data-header="Rechtsgrundlage">Einwilligung</td>
+      <td data-header="Speicherdauer">400 Tage</td>
+      <td data-header="Typ">Analyse</td>
+    </tr>
+    <tr>
+      <td data-header="Cookie-Name">_gcl_au</td>
+      <td data-header="Server"><a href="https://bexolutions.ch" rel="noopener noreferrer" target="_blank">.bexolutions.ch</a></td>
+      <td data-header="Anbieter">Google Ireland Limited</td>
+      <td data-header="Zweck">Ordnet Anfragen und Terminbuchungen den Google-Anzeigen zu, über die jemand auf die Website kam (Conversion-Tracking).</td>
+      <td data-header="Rechtsgrundlage">Einwilligung</td>
+      <td data-header="Speicherdauer">90 Tage</td>
+      <td data-header="Typ">Marketing</td>
+    </tr>
+    <tr>
+      <td data-header="Cookie-Name">IDE</td>
+      <td data-header="Server">.doubleclick.net</td>
+      <td data-header="Anbieter">Google Ireland Limited</td>
+      <td data-header="Zweck">Wird für Remarketing und die Auslieferung von Anzeigen auf anderen Websites verwendet.</td>
+      <td data-header="Rechtsgrundlage">Einwilligung</td>
+      <td data-header="Speicherdauer">400 Tage</td>
+      <td data-header="Typ">Marketing</td>
+    </tr>
   </tbody>
 </table>
 

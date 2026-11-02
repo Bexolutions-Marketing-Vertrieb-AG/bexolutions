@@ -1,6 +1,8 @@
 <script setup lang="ts">
   import { reactive, ref } from "vue"
   import type { IKontaktForm } from "~/types/dto/IKontaktForm"
+  import { getAttribution } from "~/utils/attribution"
+  import { pushEvent } from "~/utils/tracking"
 
   const salutations = ["Herr / Frau", "Herr", "Frau"]
 
@@ -25,6 +27,17 @@
   const status = ref<"idle" | "loading" | "success" | "error">("idle")
   const errorMessage = ref("")
 
+  // Topic as a short key for analytics; the free text never leaves the form.
+  function topicKey(topic: string) {
+    const keys: Record<string, string> = {
+      Sichtbarkeitsanalyse: "sichtbarkeitsanalyse",
+      "SEO & Online Marketing": "seo",
+      "Webseite / Relaunch": "webseite",
+      "Allgemeine Anfrage": "allgemein",
+    }
+    return keys[topic] ?? "andere"
+  }
+
   function resetForm() {
     form.salutation = salutations[0]
     form.firstName = ""
@@ -43,7 +56,11 @@
     try {
       await $fetch("/api/forms/kontakt", {
         method: "POST",
-        body: { ...form },
+        body: { ...form, attribution: getAttribution() },
+      })
+      pushEvent("generate_lead", {
+        form_id: "kontakt",
+        form_topic: topicKey(form.topic),
       })
       status.value = "success"
       resetForm()

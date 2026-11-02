@@ -1,5 +1,11 @@
 import { createError, defineEventHandler, readBody } from "h3"
-import { buildKontaktEmailHtml } from "~/server/utils/kontaktEmail"
+import type { H3Event } from "h3"
+import { useRuntimeConfig } from "#imports"
+import { syncLeadToHubspot } from "~/server/utils/hubspotLead"
+import {
+  buildKontaktEmailHtml,
+  cleanAttribution,
+} from "~/server/utils/kontaktEmail"
 import { sendFormEmail } from "~/server/utils/sendEmail"
 import type { IKontaktForm } from "~/types/dto/IKontaktForm"
 
@@ -7,7 +13,10 @@ export default defineEventHandler(async (event) => {
   const body = (await readBody(event)) as Partial<IKontaktForm>
   validateKontaktForm(body)
 
-  const form = body as IKontaktForm
+  const form = {
+    ...(body as IKontaktForm),
+    attribution: cleanAttribution(body.attribution),
+  }
 
   await sendFormEmail(event, {
     subject: `Kontaktanfrage: ${form.topic} — ${form.firstName} ${form.lastName}`,
@@ -15,10 +24,29 @@ export default defineEventHandler(async (event) => {
     replyTo: form.email,
   })
 
+  await sendToHubspot(event, form)
   await saveContact(form)
 
   return { ok: true }
 })
+
+async function sendToHubspot(event: H3Event, form: IKontaktForm) {
+  const config = useRuntimeConfig(event)
+  if (!config.hubspotAccessToken) return
+
+  try {
+    await syncLeadToHubspot(form, {
+      token: config.hubspotAccessToken,
+      ownerId: config.hubspotOwnerId || undefined,
+    })
+  } catch (error) {
+    // The office email already went out; the CRM entry is best-effort.
+    console.error(
+      "HubSpot sync failed:",
+      error instanceof Error ? error.message : "unknown error",
+    )
+  }
+}
 
 function validateKontaktForm(body: Partial<IKontaktForm>) {
   if (

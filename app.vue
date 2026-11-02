@@ -85,7 +85,7 @@
                 "@type": "ImageObject",
                 url: config.public.organizationLogo,
               },
-              telephone: "+41447713777",
+              telephone: "+41628972244",
               email: "info@bexolutions.ch",
               address: {
                 "@type": "PostalAddress",

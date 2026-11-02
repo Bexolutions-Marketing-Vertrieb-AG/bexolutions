@@ -7,4 +7,6 @@ export interface IKontaktForm {
   company: string
   topic: string
   message: string
+  /** Visit source (UTM, landing page, external referrer); optional. */
+  attribution?: Record<string, string>
 }

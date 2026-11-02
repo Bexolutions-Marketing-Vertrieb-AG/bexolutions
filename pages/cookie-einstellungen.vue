@@ -18,7 +18,7 @@
     path: "/cookie-einstellungen",
     title: "Cookie-Einstellungen — Bexolutions",
     description:
-      "Cookie-Einstellungen für die Website der Bexolutions Marketing & Vertrieb AG.",
+      "Cookie-Einstellungen für die Website der Bexolutions Marketing und Vertrieb AG.",
     breadcrumbs: [
       { name: "Home", path: "/" },
       { name: "Cookie-Einstellungen", path: "/cookie-einstellungen" },

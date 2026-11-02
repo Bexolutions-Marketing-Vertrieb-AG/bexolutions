@@ -18,7 +18,7 @@ export default {
   },
   author: {
     name: "Balaram Furrer",
-    bio: "Balaram Furrer ist CEO von Bexolutions Marketing & Vertrieb AG. Er begleitet Schweizer KMU bei der digitalen Sichtbarkeit im Zeitalter der KI-Suche.",
+    bio: "Balaram Furrer ist CEO von Bexolutions Marketing und Vertrieb AG. Er begleitet Schweizer KMU bei der digitalen Sichtbarkeit im Zeitalter der KI-Suche.",
   },
   toc: [
     { id: "93-prozent-ki", label: "Was steckt hinter der 93-%-Zahl?" },
@@ -170,7 +170,7 @@ export default {
     {
       type: "callout",
       variant: "navy",
-      body: "«Viele unserer Kunden kommen zu uns mit der Frage, warum ihr Traffic zurückgeht, obwohl ihr Google-Ranking gut ist. Die Antwort ist fast immer dieselbe: Sie ranken — aber sie werden von der KI nicht zitiert. Das sind zwei völlig verschiedene Spiele, und die meisten KMU spielen noch das falsche.» — Balaram Furrer, CEO Bexolutions Marketing & Vertrieb AG",
+      body: "«Viele unserer Kunden kommen zu uns mit der Frage, warum ihr Traffic zurückgeht, obwohl ihr Google-Ranking gut ist. Die Antwort ist fast immer dieselbe: Sie ranken — aber sie werden von der KI nicht zitiert. Das sind zwei völlig verschiedene Spiele, und die meisten KMU spielen noch das falsche.» — Balaram Furrer, CEO Bexolutions Marketing und Vertrieb AG",
     },
     { type: "divider" },
 

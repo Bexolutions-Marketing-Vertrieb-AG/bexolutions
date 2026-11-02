@@ -58,10 +58,10 @@
           <div>
             <p class="font-bold leading-tight">Kontakt:</p>
             <a
-              href="tel:+41447713777"
+              href="tel:+41628972244"
               class="font-mono mt-1 block font-medium leading-snug hover:opacity-80"
             >
-              044 771 37 77
+              062 897 22 44
             </a>
             <a
               href="mailto:info@bexolutions.ch"

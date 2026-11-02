@@ -42,22 +42,10 @@
 
   const offices = [
     {
-      top: 2031,
+      top: 2191,
       flag: "🇨🇭",
       name: "Schweiz — Hauptsitz",
       addr: ["Fabrikweg 1a", "5502 Hunzenschwil, Aargau"],
-    },
-    {
-      top: 2181,
-      flag: "🇲🇽",
-      name: "Mexiko",
-      addr: ["San Cayetano, 20020", "Aguascalientes, Ags."],
-    },
-    {
-      top: 2331,
-      flag: "🇮🇩",
-      name: "Indonesien — Bali",
-      addr: ["Gg. Pratama No.1a", "80361 Badung"],
     },
   ]
 
@@ -279,7 +267,7 @@
         ></div>
         <div class="absolute" style="left: 905px; top: 1542px; width: 220px">
           <p class="text-[18px] font-normal leading-[27px] text-black">
-            +41 44 771 37 77
+            +41 62 897 22 44
           </p>
           <p class="text-[18px] font-normal leading-[27px] text-black">
             info@bexolutions.ch

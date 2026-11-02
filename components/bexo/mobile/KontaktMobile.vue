@@ -11,16 +11,6 @@
       name: "Schweiz — Hauptsitz",
       addr: ["Fabrikweg 1a", "5502 Hunzenschwil, Aargau"],
     },
-    {
-      flag: "🇲🇽",
-      name: "Mexiko",
-      addr: ["San Cayetano, 20020", "Aguascalientes, Ags."],
-    },
-    {
-      flag: "🇮🇩",
-      name: "Indonesien — Bali",
-      addr: ["Gg. Pratama No.1a", "80361 Badung"],
-    },
   ]
 
   const badges = [
@@ -116,7 +106,7 @@
         />
       </div>
       <div class="mt-8 space-y-2 text-base text-black">
-        <p>+41 44 771 37 77</p>
+        <p>+41 62 897 22 44</p>
         <a href="mailto:info@bexolutions.ch" class="block min-h-11 py-1">
           info@bexolutions.ch
         </a>

@@ -19,7 +19,7 @@ export default {
   },
   author: {
     name: "Balaram Furrer",
-    bio: "Balaram Furrer ist CEO von Bexolutions Marketing & Vertrieb AG.",
+    bio: "Balaram Furrer ist CEO von Bexolutions Marketing und Vertrieb AG.",
   },
   toc: [
     {

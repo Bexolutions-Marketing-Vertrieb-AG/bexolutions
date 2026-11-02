@@ -18,7 +18,7 @@ export default {
   },
   author: {
     name: "Balaram Furrer",
-    bio: "Balaram Furrer ist CEO von Bexolutions Marketing & Vertrieb AG. Er begleitet Schweizer KMU bei der digitalen Sichtbarkeit im Zeitalter der KI-Suche.",
+    bio: "Balaram Furrer ist CEO von Bexolutions Marketing und Vertrieb AG. Er begleitet Schweizer KMU bei der digitalen Sichtbarkeit im Zeitalter der KI-Suche.",
   },
   toc: [
     { id: "die-zahl-und-ihre-quelle", label: "Die Zahl und ihre Quelle" },

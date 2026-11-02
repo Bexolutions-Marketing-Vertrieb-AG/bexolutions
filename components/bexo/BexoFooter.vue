@@ -70,7 +70,7 @@
         Kontakt:
       </p>
       <p class="footer-mono text-[14px] font-medium leading-[21px] text-white">
-        044 771 37 77
+        062 897 22 44
       </p>
       <a
         href="mailto:info@bexolutions.ch"

@@ -43,6 +43,9 @@ export default defineNuxtConfig({
     brevoFromEmail: process.env.BREVO_FROM_EMAIL ?? "",
     brevoFromName: process.env.BREVO_FROM_NAME ?? "Bexolutions",
     brevoToEmail: process.env.BREVO_TO_EMAIL ?? "",
+    // HubSpot private app token (server-only); empty disables the CRM sync.
+    hubspotAccessToken: process.env.HUBSPOT_ACCESS_TOKEN ?? "",
+    hubspotOwnerId: process.env.HUBSPOT_OWNER_ID ?? "",
     public: {
       siteUrl: process.env.NUXT_PUBLIC_SITE_URL ?? "https://www.bexolutions.ch",
       siteName:

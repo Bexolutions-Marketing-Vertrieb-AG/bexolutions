@@ -304,11 +304,14 @@
             class="absolute overflow-hidden rounded-[30px]"
             style="left: 120px; top: 189px; width: 732px; height: 422px"
           >
-            <NuxtImg
-              :src="`${IMG}/mapwidget.jpg`"
-              class="h-full w-full object-cover"
-              alt="Karte — Bexolutions Standort"
-            />
+            <iframe
+              title="Bexolutions Standort auf Google Maps"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2701.184046892881!2d8.123110177063905!3d47.388841771170206!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47900b219b741eeb%3A0xf06b9a842deb9f53!2sBexolutions%20Marketing%20und%20Vertrieb%20AG!5e0!3m2!1sen!2smx!4v1793862996025!5m2!1sen!2smx"
+              class="h-full w-full border-0"
+              allowfullscreen
+              loading="lazy"
+              referrerpolicy="strict-origin-when-cross-origin"
+            ></iframe>
           </div>
           <div
             v-for="o of offices"
